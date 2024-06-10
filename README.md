@@ -12,13 +12,13 @@ multiplied by 7. The frequency of the oscillator crystal is
  Else
  F00Ah Data*7 
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8085-Zadaca1/blob/main/image1.png)
+![Screenshot (1)](https://github.com/ilievatijana/8085-exercise1/blob/main/image1.png)
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
 
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 
 **Subject**
